@@ -1,0 +1,22 @@
+.main
+{
+    border: 15px solid black;
+    width: 600px;
+    height: 300px;
+    background-color: #fff;
+}
+.a {
+    height: 100px;
+    width: 600px ;
+    background-color: #002664;
+}
+.b {
+    height: 100px;
+    width: 600px ;
+    background-color: #fecb00;
+}
+.c{
+    height: 100px;
+    width: 600px;
+    background-color: #c60c31;
+}
